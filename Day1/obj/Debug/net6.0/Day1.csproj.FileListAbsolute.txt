@@ -1,0 +1,16 @@
+C:\work\AdventofCode\Day1\bin\Debug\net6.0\Input1.txt
+C:\work\AdventofCode\Day1\bin\Debug\net6.0\Day1.exe
+C:\work\AdventofCode\Day1\bin\Debug\net6.0\Day1.deps.json
+C:\work\AdventofCode\Day1\bin\Debug\net6.0\Day1.runtimeconfig.json
+C:\work\AdventofCode\Day1\bin\Debug\net6.0\Day1.dll
+C:\work\AdventofCode\Day1\bin\Debug\net6.0\Day1.pdb
+C:\work\AdventofCode\Day1\obj\Debug\net6.0\Day1.csproj.AssemblyReference.cache
+C:\work\AdventofCode\Day1\obj\Debug\net6.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\AdventofCode\Day1\obj\Debug\net6.0\Day1.AssemblyInfoInputs.cache
+C:\work\AdventofCode\Day1\obj\Debug\net6.0\Day1.AssemblyInfo.cs
+C:\work\AdventofCode\Day1\obj\Debug\net6.0\Day1.csproj.CoreCompileInputs.cache
+C:\work\AdventofCode\Day1\obj\Debug\net6.0\Day1.dll
+C:\work\AdventofCode\Day1\obj\Debug\net6.0\refint\Day1.dll
+C:\work\AdventofCode\Day1\obj\Debug\net6.0\Day1.pdb
+C:\work\AdventofCode\Day1\obj\Debug\net6.0\Day1.genruntimeconfig.cache
+C:\work\AdventofCode\Day1\obj\Debug\net6.0\ref\Day1.dll
