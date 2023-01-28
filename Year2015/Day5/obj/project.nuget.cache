@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "b8JCUNVJdAWoLrq1cJd1ew30mVA24xU/OMFqnUn4yxTpzkwId01UM9zBYzBOV5FaEUwxlpk1N931YGu0lVJKQA==",
+  "success": true,
+  "projectFilePath": "C:\\work\\AdventofCode\\Year2015\\Day5\\Day5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\endisch\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\endisch\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\endisch\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\endisch\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

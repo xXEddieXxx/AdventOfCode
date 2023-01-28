@@ -1,0 +1,16 @@
+C:\work\AdventofCode\Day2\bin\Debug\net6.0\Input.txt
+C:\work\AdventofCode\Day2\bin\Debug\net6.0\Day2.exe
+C:\work\AdventofCode\Day2\bin\Debug\net6.0\Day2.deps.json
+C:\work\AdventofCode\Day2\bin\Debug\net6.0\Day2.runtimeconfig.json
+C:\work\AdventofCode\Day2\bin\Debug\net6.0\Day2.dll
+C:\work\AdventofCode\Day2\bin\Debug\net6.0\Day2.pdb
+C:\work\AdventofCode\Day2\obj\Debug\net6.0\Day2.csproj.AssemblyReference.cache
+C:\work\AdventofCode\Day2\obj\Debug\net6.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\AdventofCode\Day2\obj\Debug\net6.0\Day2.AssemblyInfoInputs.cache
+C:\work\AdventofCode\Day2\obj\Debug\net6.0\Day2.AssemblyInfo.cs
+C:\work\AdventofCode\Day2\obj\Debug\net6.0\Day2.csproj.CoreCompileInputs.cache
+C:\work\AdventofCode\Day2\obj\Debug\net6.0\Day2.dll
+C:\work\AdventofCode\Day2\obj\Debug\net6.0\refint\Day2.dll
+C:\work\AdventofCode\Day2\obj\Debug\net6.0\Day2.pdb
+C:\work\AdventofCode\Day2\obj\Debug\net6.0\Day2.genruntimeconfig.cache
+C:\work\AdventofCode\Day2\obj\Debug\net6.0\ref\Day2.dll
