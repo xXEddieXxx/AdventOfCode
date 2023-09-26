@@ -9,121 +9,14 @@
     <projectFile>Year2015/Day6/Day6.csproj</projectFile>
     <projectFile>Year2022/Day1/Day1.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5b1025f1-1836-4ae7-ace7-b0091ab35dbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AdventofCode/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AdventofCode/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AdventofCode/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventOfCode.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/Day1.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/Input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/bin/Debug/net8.0/Day1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/bin/Debug/net8.0/Day1.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/bin/Debug/net8.0/Day1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/bin/Debug/net8.0/Day1.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/bin/Debug/net8.0/Day1.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/bin/Debug/net8.0/Input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/Day1.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/Day1.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/Day1.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/Debug/net8.0/Day1.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/Debug/net8.0/Day1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/Debug/net8.0/Day1.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/Debug/net8.0/Day1.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/Debug/net8.0/Day1.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/Debug/net8.0/Day1.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/Debug/net8.0/Day1.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/Debug/net8.0/Day1.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/Debug/net8.0/Day1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/Debug/net8.0/Day1.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/Debug/net8.0/Day1.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/Debug/net8.0/Day1.sourcelink.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/Debug/net8.0/apphost" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/Debug/net8.0/ref/Day1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/Debug/net8.0/refint/Day1.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Day1/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/Year2022.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/obj/Debug/net8.0/Year2022.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/obj/Debug/net8.0/Year2022.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/obj/Debug/net8.0/Year2022.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/obj/Debug/net8.0/Year2022.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/obj/Debug/net8.0/Year2022.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/obj/Year2022.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/obj/Year2022.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/obj/Year2022.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Year2022/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AdventofCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AdventofCode/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Year2015/.idea/.idea.Year2015/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Year2015/.idea/.idea.Year2015/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/AdventOfCode.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Day1/obj/Debug/net6.0/Day1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Year2015/Day1/obj/Debug/net6.0/Day1.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Day1/obj/Debug/net6.0/Day1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Year2015/Day1/obj/Debug/net6.0/Day1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Day1/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Year2015/Day1/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Day2/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Year2015/Day2/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Day3/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Year2015/Day3/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Day4/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Year2015/Day4/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Day5/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Year2015/Day5/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Day6/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Year2015/Day6/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/Day1.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/Input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/bin/Debug/net8.0/Day1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/bin/Debug/net8.0/Day1.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/bin/Debug/net8.0/Day1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/bin/Debug/net8.0/Day1.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/bin/Debug/net8.0/Day1.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/bin/Debug/net8.0/Input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/Day1.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/Day1.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/Day1.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/Debug/net8.0/Day1.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/Debug/net8.0/Day1.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/Debug/net8.0/Day1.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/Debug/net8.0/Day1.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/Debug/net8.0/Day1.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/Debug/net8.0/Day1.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/Debug/net8.0/Day1.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/Debug/net8.0/Day1.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/Debug/net8.0/Day1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/Debug/net8.0/Day1.genruntimeconfig.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/Debug/net8.0/Day1.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/Debug/net8.0/Day1.sourcelink.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/Debug/net8.0/apphost" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/Debug/net8.0/ref/Day1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/Debug/net8.0/refint/Day1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Day1/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/Year2022.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/obj/Debug/net8.0/Year2022.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/obj/Debug/net8.0/Year2022.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/obj/Debug/net8.0/Year2022.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/obj/Debug/net8.0/Year2022.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/obj/Debug/net8.0/Year2022.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/obj/Year2022.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/obj/Year2022.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/obj/Year2022.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/Year2022/obj/rider.project.restore.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year2015/global.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,119 +64,101 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.Day4">
-    <configuration name="AdventofCode" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+  <component name="RunManager" selected=".NET Project.2015Day2">
+    <configuration name="2015Day1" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Year2015/Day1/bin/Debug/net6.0/Day1" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Year2015/Day1/bin/Debug/net6.0" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Day1/Day1.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Year2015/Day1/Day1.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value="net6.0" />
       <method v="2">
         <option name="Build" />
       </method>
     </configuration>
-    <configuration name="Day1" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+    <configuration name="2015Day2" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Year2015/Day1/bin/Debug/net6.0/Day1" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Year2015/Day1/bin/Debug/net6.0" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Year2022/Day1/Day1.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Year2015/Day1/Day1.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value="net6.0" />
       <method v="2">
         <option name="Build" />
       </method>
     </configuration>
-    <configuration name="Day2" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+    <configuration name="2015Day3" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Year2015/Day3/bin/Debug/net6.0/Day3" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Year2015/Day3/bin/Debug/net6.0" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Day2/Day2.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Year2015/Day3/Day3.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value="net6.0" />
       <method v="2">
         <option name="Build" />
       </method>
     </configuration>
-    <configuration name="Day3" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+    <configuration name="2015Day4" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Year2015/Day3/bin/Debug/net6.0/Day3.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Year2015/Day3/bin/Debug/net6.0" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Day3/Day3.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Year2015/Day3/Day3.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="StaticMethod" />
+      <option name="PROJECT_TFM" value="net6.0" />
       <method v="2">
         <option name="Build" />
       </method>
     </configuration>
-    <configuration name="Day4" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+    <configuration name="2015Day5" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Year2015/Day5/bin/Debug/net6.0/Day5" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Year2015/Day5/bin/Debug/net6.0" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Day4/Day4.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Year2015/Day5/Day5.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value="net6.0" />
       <method v="2">
         <option name="Build" />
       </method>
     </configuration>
-    <configuration name="Day5" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+    <configuration name="2015Day6" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Year2015/Day6/bin/Debug/net6.0/Day6" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Day5/Day5.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="Day6" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Year2015/Day6/bin/Debug/net6.0" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
@@ -293,11 +168,38 @@
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value="net6.0" />
       <method v="2">
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="2022Day1" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Year2022/Day1/bin/Debug/net8.0/Day1" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Year2022/Day1/bin/Debug/net8.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Year2022/Day1/Day1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="net8.0" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.2022Day1" />
+      <item itemvalue=".NET Project.2015Day1" />
+      <item itemvalue=".NET Project.2015Day2" />
+      <item itemvalue=".NET Project.2015Day3" />
+      <item itemvalue=".NET Project.2015Day4" />
+      <item itemvalue=".NET Project.2015Day5" />
+      <item itemvalue=".NET Project.2015Day6" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -308,7 +210,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674845168853</updated>
       <workItem from="1674845169883" duration="20380000" />
-      <workItem from="1695754267208" duration="355000" />
+      <workItem from="1695754267208" duration="788000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1674937440586</created>
@@ -317,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1674937440586</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="refactor: change project structure add gitignore">
+      <option name="closed" value="true" />
+      <created>1695754659127</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695754659127</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -339,5 +249,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="first commit" />
+    <MESSAGE value="refactor: change project structure add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: change project structure add gitignore" />
   </component>
 </project>

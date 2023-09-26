@@ -15,6 +15,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f53ce033-d8db-41df-8603-52e7016c0f34" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.AdventofCode/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.AdventofCode/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.idea.AdventofCode/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../AdventOfCode.sln" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Year2022/Day1/Day1.csproj" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Year2022/Day1/Input.txt" afterDir="false" />
@@ -47,6 +50,7 @@
       <change afterPath="$PROJECT_DIR$/../Year2022/Day1/obj/project.assets.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Year2022/Day1/obj/project.nuget.cache" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Year2022/Day1/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Year2022/Day1/obj/rider.project.model.nuget.info" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Year2022/Day1/obj/rider.project.restore.info" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Year2022/Program.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Year2022/Year2022.csproj" afterDir="false" />
@@ -64,8 +68,17 @@
       <change afterPath="$PROJECT_DIR$/../Year2022/obj/project.packagespec.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Year2022/obj/rider.project.restore.info" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../global.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.idea.AdventofCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.idea.AdventofCode/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Year2015/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Year2015/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AdventOfCode.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/obj/Debug/net6.0/Day1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/obj/Debug/net6.0/Day1.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/obj/Debug/net6.0/Day1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/obj/Debug/net6.0/Day1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day2/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Day3/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day4/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Day4/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day5/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Day5/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day6/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/Day6/obj/rider.project.model.nuget.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Year2022/Day1/Day1.csproj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Year2022/Day1/Input.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Year2022/Day1/Program.cs" beforeDir="false" />
@@ -318,7 +331,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695741754868</updated>
-      <workItem from="1695741756029" duration="2354000" />
+      <workItem from="1695741756029" duration="2794000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add Day1 2022">
       <option name="closed" value="true" />
