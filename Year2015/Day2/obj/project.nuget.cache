@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "DWqCfZl2YEXKZgIqcO9yFktEZ5ScP6SEmaQbYJO8IsaZs2Xsizoy9DZqsXb84Gu6YwBu2FofW81S7cDTYqjgyw==",
+  "dgSpecHash": "hD5CJ9DDSPyrMkuP5BfIPZpgL5q/OWPEdeoIsG2AxXZVjNfOWrtIjWGSl4XPNxLqvx6giA3dkFdcJY4McE0/Lg==",
   "success": true,
-  "projectFilePath": "C:\\work\\AdventofCode\\Year2015\\Day2\\Day2.csproj",
+  "projectFilePath": "/Users/eddieendisch/work/AdventOfCode/Year2015/Day2/Day2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\endisch\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\endisch\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\endisch\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
-    "C:\\Users\\endisch\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+    "/Users/eddieendisch/.nuget/packages/microsoft.netcore.app.ref/6.0.16/microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "/Users/eddieendisch/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.16/microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "/Users/eddieendisch/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.16/microsoft.netcore.app.host.osx-arm64.6.0.16.nupkg.sha512"
   ],
   "logs": []
 }

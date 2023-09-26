@@ -8,24 +8,25 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\endisch\\.nuget\\packages\\": {}
+    "/Users/eddieendisch/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\work\\AdventofCode\\Year2015\\Day3\\Day3.csproj",
+      "projectUniqueName": "/Users/eddieendisch/work/AdventOfCode/Year2015/Day3/Day3.csproj",
       "projectName": "Day3",
-      "projectPath": "C:\\work\\AdventofCode\\Year2015\\Day3\\Day3.csproj",
-      "packagesPath": "C:\\Users\\endisch\\.nuget\\packages\\",
-      "outputPath": "C:\\work\\AdventofCode\\Year2015\\Day3\\obj\\",
+      "projectPath": "/Users/eddieendisch/work/AdventOfCode/Year2015/Day3/Day3.csproj",
+      "packagesPath": "/Users/eddieendisch/.nuget/packages/",
+      "outputPath": "/Users/eddieendisch/work/AdventOfCode/Year2015/Day3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\endisch\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/eddieendisch/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -57,19 +58,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.13, 6.0.13]"
+            "version": "[6.0.16, 6.0.16]"
           },
           {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.13, 6.0.13]"
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[6.0.16, 6.0.16]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.13, 6.0.13]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.13, 6.0.13]"
+            "version": "[6.0.16, 6.0.16]"
           }
         ],
         "frameworkReferences": {
@@ -77,7 +74,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100-preview.5.23303.2/RuntimeIdentifierGraph.json"
       }
     }
   }
