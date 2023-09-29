@@ -6,3 +6,4 @@ _ReSharper.*
 packages
 .idea
 .DS_Store
+global.json
